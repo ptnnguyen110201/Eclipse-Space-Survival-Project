@@ -1,0 +1,4 @@
+repository "Eclipse Space Survival@ptngaming2003@cloud"
+  path "/"
+    br "/main"
+    co "/main"

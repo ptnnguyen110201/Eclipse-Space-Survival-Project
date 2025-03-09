@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60cb7550f67e16e46a602d7d25d93a33, type: 3}
+  m_Name: ShipLevelMap
+  m_EditorClassIdentifier: 
+  levels:
+  - level: 1
+    requiredEXP: 10
+  - level: 2
+    requiredEXP: 20
+  - level: 3
+    requiredEXP: 30
+  - level: 4
+    requiredEXP: 40
+  - level: 5
+    requiredEXP: 50
+  - level: 6
+    requiredEXP: 60
+  - level: 7
+    requiredEXP: 70
+  - level: 8
+    requiredEXP: 80
+  - level: 9
+    requiredEXP: 90
+  - level: 10
+    requiredEXP: 100
+  - level: 11
+    requiredEXP: 120
+  - level: 12
+    requiredEXP: 140
+  - level: 13
+    requiredEXP: 160
+  - level: 14
+    requiredEXP: 180
+  - level: 15
+    requiredEXP: 200
+  - level: 16
+    requiredEXP: 220
+  - level: 17
+    requiredEXP: 240
+  - level: 18
+    requiredEXP: 260
+  - level: 19
+    requiredEXP: 280
+  - level: 20
+    requiredEXP: 300
+  - level: 21
+    requiredEXP: 340
+  - level: 22
+    requiredEXP: 380
+  - level: 23
+    requiredEXP: 420
+  - level: 24
+    requiredEXP: 460
+  - level: 25
+    requiredEXP: 500
+  - level: 26
+    requiredEXP: 540
+  - level: 27
+    requiredEXP: 580
+  - level: 28
+    requiredEXP: 620
+  - level: 29
+    requiredEXP: 660
+  - level: 30
+    requiredEXP: 700
+  - level: 31
+    requiredEXP: 780
+  - level: 32
+    requiredEXP: 860
+  - level: 33
+    requiredEXP: 940
+  - level: 34
+    requiredEXP: 1020
+  - level: 35
+    requiredEXP: 1100
+  - level: 36
+    requiredEXP: 1180
+  - level: 37
+    requiredEXP: 1260
+  - level: 38
+    requiredEXP: 1340
+  - level: 39
+    requiredEXP: 1420
+  - level: 40
+    requiredEXP: 1500
+  - level: 41
+    requiredEXP: 1660
+  - level: 42
+    requiredEXP: 1820
+  - level: 43
+    requiredEXP: 1980
+  - level: 44
+    requiredEXP: 2140
+  - level: 45
+    requiredEXP: 2300
+  - level: 46
+    requiredEXP: 2460
+  - level: 47
+    requiredEXP: 2620
+  - level: 48
+    requiredEXP: 2780
+  - level: 49
+    requiredEXP: 2940
+  - level: 50
+    requiredEXP: 3100
+  - level: 51
+    requiredEXP: 3420
+  - level: 52
+    requiredEXP: 3740
+  - level: 53
+    requiredEXP: 4060
+  - level: 54
+    requiredEXP: 4380
+  - level: 55
+    requiredEXP: 4700
+  - level: 56
+    requiredEXP: 5020
+  - level: 57
+    requiredEXP: 5340
+  - level: 58
+    requiredEXP: 5660
+  - level: 59
+    requiredEXP: 5980
+  - level: 60
+    requiredEXP: 6300
+  - level: 61
+    requiredEXP: 6940
+  - level: 62
+    requiredEXP: 7580
+  - level: 63
+    requiredEXP: 8220
+  - level: 64
+    requiredEXP: 8860
+  - level: 65
+    requiredEXP: 9500
+  - level: 66
+    requiredEXP: 10140
+  - level: 67
+    requiredEXP: 10780
+  - level: 68
+    requiredEXP: 11420
+  - level: 69
+    requiredEXP: 12060
+  - level: 70
+    requiredEXP: 12700
+  - level: 71
+    requiredEXP: 13980
+  - level: 72
+    requiredEXP: 15260
+  - level: 73
+    requiredEXP: 16540
+  - level: 74
+    requiredEXP: 17820
+  - level: 75
+    requiredEXP: 19100
+  - level: 76
+    requiredEXP: 20380
+  - level: 77
+    requiredEXP: 21660
+  - level: 78
+    requiredEXP: 22940
+  - level: 79
+    requiredEXP: 24220
+  - level: 80
+    requiredEXP: 25500
+  - level: 81
+    requiredEXP: 28060
+  - level: 82
+    requiredEXP: 30620
+  - level: 83
+    requiredEXP: 33180
+  - level: 84
+    requiredEXP: 35740
+  - level: 85
+    requiredEXP: 38300
+  - level: 86
+    requiredEXP: 40860
+  - level: 87
+    requiredEXP: 43420
+  - level: 88
+    requiredEXP: 45980
+  - level: 89
+    requiredEXP: 48540
+  - level: 90
+    requiredEXP: 51100
+  - level: 91
+    requiredEXP: 56220
+  - level: 92
+    requiredEXP: 61340
+  - level: 93
+    requiredEXP: 66460
+  - level: 94
+    requiredEXP: 71580
+  - level: 95
+    requiredEXP: 76700
+  - level: 96
+    requiredEXP: 81820
+  - level: 97
+    requiredEXP: 86940
+  - level: 98
+    requiredEXP: 92060
+  - level: 99
+    requiredEXP: 97180
+  - level: 100
+    requiredEXP: 102300

@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dea6a1d077c6048a5da336f26e357b, type: 3}
+  m_Name: ShipHull 5
+  m_EditorClassIdentifier: 
+  ItemID: 5
+  itemName: Aegis Plating Hull
+  shipItemType: 0
+  itemLevel: 1
+  itemTier: 1
+  playerGolds:
+  - goldsData: {fileID: 11400000, guid: ffed678d25ac6414f9e7e06b80cb5a6c, type: 2}
+    Amount: 100000
+  shipItemLevelDatas:
+  - itemLevel: 1
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 700
+    - Attribute: 1
+      Amount: 100
+    Ingredients:
+      Currency: 0
+      Amount: 4000
+  - itemLevel: 2
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 770
+    - Attribute: 1
+      Amount: 110
+    Ingredients:
+      Currency: 0
+      Amount: 5000
+  - itemLevel: 3
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 840
+    - Attribute: 1
+      Amount: 120
+    Ingredients:
+      Currency: 0
+      Amount: 6000
+  - itemLevel: 4
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 910
+    - Attribute: 1
+      Amount: 130
+    Ingredients:
+      Currency: 0
+      Amount: 7000
+  - itemLevel: 5
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 980
+    - Attribute: 1
+      Amount: 140
+    Ingredients:
+      Currency: 0
+      Amount: 8000
+  - itemLevel: 6
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1050
+    - Attribute: 1
+      Amount: 150
+    Ingredients:
+      Currency: 0
+      Amount: 9000
+  - itemLevel: 7
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1120
+    - Attribute: 1
+      Amount: 160
+    Ingredients:
+      Currency: 0
+      Amount: 10000
+  - itemLevel: 8
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1190
+    - Attribute: 1
+      Amount: 170
+    Ingredients:
+      Currency: 0
+      Amount: 11000
+  - itemLevel: 9
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1260
+    - Attribute: 1
+      Amount: 180
+    Ingredients:
+      Currency: 0
+      Amount: 12000
+  - itemLevel: 10
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1330
+    - Attribute: 1
+      Amount: 190
+    Ingredients:
+      Currency: 0
+      Amount: 13000
+  - itemLevel: 11
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1400
+    - Attribute: 1
+      Amount: 200
+    Ingredients:
+      Currency: 0
+      Amount: 14000
+  - itemLevel: 12
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1470
+    - Attribute: 1
+      Amount: 210
+    Ingredients:
+      Currency: 0
+      Amount: 15000
+  - itemLevel: 13
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1540
+    - Attribute: 1
+      Amount: 220
+    Ingredients:
+      Currency: 0
+      Amount: 16000
+  - itemLevel: 14
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1610
+    - Attribute: 1
+      Amount: 230
+    Ingredients:
+      Currency: 0
+      Amount: 17000
+  - itemLevel: 15
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1680
+    - Attribute: 1
+      Amount: 240
+    Ingredients:
+      Currency: 0
+      Amount: 18000
+  - itemLevel: 16
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1750
+    - Attribute: 1
+      Amount: 250
+    Ingredients:
+      Currency: 0
+      Amount: 19000
+  - itemLevel: 17
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1820
+    - Attribute: 1
+      Amount: 260
+    Ingredients:
+      Currency: 0
+      Amount: 20000
+  - itemLevel: 18
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1890
+    - Attribute: 1
+      Amount: 270
+    Ingredients:
+      Currency: 0
+      Amount: 21000
+  - itemLevel: 19
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 1960
+    - Attribute: 1
+      Amount: 280
+    Ingredients:
+      Currency: 0
+      Amount: 22000
+  - itemLevel: 20
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2030
+    - Attribute: 1
+      Amount: 290
+    Ingredients:
+      Currency: 0
+      Amount: 23000
+  - itemLevel: 21
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2100
+    - Attribute: 1
+      Amount: 300
+    Ingredients:
+      Currency: 0
+      Amount: 24000
+  - itemLevel: 22
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2170
+    - Attribute: 1
+      Amount: 310
+    Ingredients:
+      Currency: 0
+      Amount: 25000
+  - itemLevel: 23
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2240
+    - Attribute: 1
+      Amount: 320
+    Ingredients:
+      Currency: 0
+      Amount: 26000
+  - itemLevel: 24
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2310
+    - Attribute: 1
+      Amount: 330
+    Ingredients:
+      Currency: 0
+      Amount: 27000
+  - itemLevel: 25
+    ShipItemAttributes:
+    - Attribute: 2
+      Amount: 2380
+    - Attribute: 1
+      Amount: 340
+    Ingredients:
+      Currency: 0
+      Amount: 28000
+  shipItemTierDatas:
+  - itemTierSprite: {fileID: 21300000, guid: ba8d01dc109b5334d913481316099aa3, type: 3}
+    itemTier: 1
+    itemtierBoostAmount: 11
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 1
+  - itemTierSprite: {fileID: 21300000, guid: 55034fd6a058bc444ab409ea48a17fba, type: 3}
+    itemTier: 2
+    itemtierBoostAmount: 22
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 1
+  - itemTierSprite: {fileID: 21300000, guid: 663cd933746e2114a8bd525cabcd15d8, type: 3}
+    itemTier: 3
+    itemtierBoostAmount: 33
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 2
+  - itemTierSprite: {fileID: 21300000, guid: b1cc446004a4f2a4ba9d35bea514dd6d, type: 3}
+    itemTier: 4
+    itemtierBoostAmount: 44
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 2
+  - itemTierSprite: {fileID: 21300000, guid: b52583c6a3e670d43a08040cc244b03e, type: 3}
+    itemTier: 5
+    itemtierBoostAmount: 55
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 3

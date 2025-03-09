@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ce5a5cc83756147bca219cdbd3b0eb, type: 3}
+  m_Name: Lighting
+  m_EditorClassIdentifier: 
+  itemName: Lighting
+  itemSprite: {fileID: 21300000, guid: eb5bd8a43a09c2145803dfa4f4babd09, type: 3}
+  objectType: 5
+  selectableType: 0
+  bulletType: 4
+  levels:
+  - level: 1
+    abilityAttributes:
+      ATK: 25
+      Cooldown: 3
+      SizeArea: 1
+      ShotsPerAttack: 1
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - Spawns 1 Lighting
+  - level: 2
+    abilityAttributes:
+      ATK: 25
+      Cooldown: 3
+      SizeArea: 1
+      ShotsPerAttack: 2
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - Spawns 2 Lighting
+  - level: 3
+    abilityAttributes:
+      ATK: 50
+      Cooldown: 3
+      SizeArea: 1
+      ShotsPerAttack: 2
+      CritRate: 0.5
+      CritDamage: 1.3333
+    Description:
+    - +25% ATK
+  - level: 4
+    abilityAttributes:
+      ATK: 75
+      Cooldown: 3
+      SizeArea: 1
+      ShotsPerAttack: 3
+      CritRate: 0.5
+      CritDamage: 1.3333
+    Description:
+    - +25% ATK
+    - Spawns 3 Lighting
+  UltimateLevel:
+    level: 5
+    abilityAttributes:
+      ATK: 125
+      Cooldown: 3
+      SizeArea: 1
+      ShotsPerAttack: 4
+      CritRate: 1
+      CritDamage: 2
+    Description:
+    - Spawns 4 Lighting
+    - '100% Critical '
+  abilityBuffData: {fileID: 11400000, guid: 743985556c53b074f9f4d86c422d3c78, type: 2}

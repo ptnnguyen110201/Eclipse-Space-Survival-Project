@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3e8191752422f4b9a916060e6b5d27, type: 3}
+  m_Name: Enemy5
+  m_EditorClassIdentifier: 
+  objName: Enemy5
+  objType: 2
+  objectAttributes:
+  - objectSprite: {fileID: 21300000, guid: 28ec1072939c192498ccdd7cffe07dc5, type: 3}
+    objectHp: 185
+    objectATK: 10
+    objectSpeed: 0.75
+    dropList:
+    - itemData: {fileID: 11400000, guid: 72c94e9d9ad8168458993bfbeb62f149, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: 5b7f4c68c78ce284899e2f3793361bc5, type: 3}
+    objectHp: 277.5
+    objectATK: 11.000000238418579
+    objectSpeed: 0.75
+    dropList:
+    - itemData: {fileID: 11400000, guid: bf460d66cd44f224bb6c8e9769a09319, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: e402091a033dd8d41ba8286756012255, type: 3}
+    objectHp: 416.25
+    objectATK: 12.100000381469727
+    objectSpeed: 0.75
+    dropList:
+    - itemData: {fileID: 11400000, guid: ede78aacb4c41fb4fb9faea5f3de9589, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: d93f1b17e43bee0499c00efae4dfd693, type: 2}
+      dropRate: 25
+  - objectSprite: {fileID: 21300000, guid: 49e961c0a01d19145a80433f3968d6bc, type: 3}
+    objectHp: 624.375
+    objectATK: 13.310000896453857
+    objectSpeed: 0.75
+    dropList:
+    - itemData: {fileID: 11400000, guid: d93f1b17e43bee0499c00efae4dfd693, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: ede78aacb4c41fb4fb9faea5f3de9589, type: 2}
+      dropRate: 25
+  enemyID: 5

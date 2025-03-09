@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b62b7f632b1dcc749a8e17552b22a986, type: 3}
+  m_Name: NewbieRewardData
+  m_EditorClassIdentifier: 
+  rewards:
+  - Item: {fileID: 11400000, guid: 58182ae51a47f3e4a9ea760cb9212d8a, type: 2}
+    itemCount: 1
+  - Item: {fileID: 11400000, guid: 3c1e1c30038a47846aa50ce95d246df9, type: 2}
+    itemCount: 1
+  - Item: {fileID: 11400000, guid: 5266b07dabdf3444a809c320ffa9c3ce, type: 2}
+    itemCount: 1

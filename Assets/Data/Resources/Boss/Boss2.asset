@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffcf8d09f3595cd45bb234b1d81379ca, type: 3}
+  m_Name: Boss2
+  m_EditorClassIdentifier: 
+  objName: Boss2D
+  objType: 4
+  objectAttributes:
+  - objectSprite: {fileID: 21300000, guid: d6937ac89607c9e478adcc9a6afeb97d, type: 3}
+    objectHp: 100000
+    objectATK: 40
+    objectSpeed: 0
+    dropList:
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: d4f6a0fbec03a0340bdeee4a3691d3c4, type: 3}
+    objectHp: 150000
+    objectATK: 44.000000953674316
+    objectSpeed: 0
+    dropList:
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: 0c0cd59c50017fc46949510ce92c575e, type: 3}
+    objectHp: 225000
+    objectATK: 48.400001525878906
+    objectSpeed: 0
+    dropList:
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: f674e1fa07d37b7498063ef2d3b7b584, type: 3}
+    objectHp: 337500
+    objectATK: 53.24000358581543
+    objectSpeed: 0
+    dropList:
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  enemyID: 1002
+  fxType: 103

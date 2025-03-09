@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dea6a1d077c6048a5da336f26e357b, type: 3}
+  m_Name: ShipMissile 6
+  m_EditorClassIdentifier: 
+  ItemID: 6
+  itemName: Ragnarok Missile
+  shipItemType: 2
+  itemLevel: 1
+  itemTier: 1
+  playerGolds:
+  - goldsData: {fileID: 11400000, guid: ffed678d25ac6414f9e7e06b80cb5a6c, type: 2}
+    Amount: 125000
+  shipItemLevelDatas:
+  - itemLevel: 1
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 170
+    - Attribute: 2
+      Amount: 30
+    Ingredients:
+      Currency: 0
+      Amount: 2500
+  - itemLevel: 2
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 187
+    - Attribute: 2
+      Amount: 33
+    Ingredients:
+      Currency: 0
+      Amount: 3500
+  - itemLevel: 3
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 204
+    - Attribute: 2
+      Amount: 36
+    Ingredients:
+      Currency: 0
+      Amount: 4500
+  - itemLevel: 4
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 221
+    - Attribute: 2
+      Amount: 39
+    Ingredients:
+      Currency: 0
+      Amount: 5500
+  - itemLevel: 5
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 238
+    - Attribute: 2
+      Amount: 42
+    Ingredients:
+      Currency: 0
+      Amount: 6500
+  - itemLevel: 6
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 255
+    - Attribute: 2
+      Amount: 45
+    Ingredients:
+      Currency: 0
+      Amount: 7500
+  - itemLevel: 7
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 272
+    - Attribute: 2
+      Amount: 48
+    Ingredients:
+      Currency: 0
+      Amount: 8500
+  - itemLevel: 8
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 289
+    - Attribute: 2
+      Amount: 51
+    Ingredients:
+      Currency: 0
+      Amount: 9500
+  - itemLevel: 9
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 306
+    - Attribute: 2
+      Amount: 54
+    Ingredients:
+      Currency: 0
+      Amount: 10500
+  - itemLevel: 10
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 323
+    - Attribute: 2
+      Amount: 57
+    Ingredients:
+      Currency: 0
+      Amount: 11500
+  - itemLevel: 11
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 340
+    - Attribute: 2
+      Amount: 60
+    Ingredients:
+      Currency: 0
+      Amount: 12500
+  - itemLevel: 12
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 357
+    - Attribute: 2
+      Amount: 63
+    Ingredients:
+      Currency: 0
+      Amount: 13500
+  - itemLevel: 13
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 374
+    - Attribute: 2
+      Amount: 66
+    Ingredients:
+      Currency: 0
+      Amount: 14500
+  - itemLevel: 14
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 391
+    - Attribute: 2
+      Amount: 69
+    Ingredients:
+      Currency: 0
+      Amount: 15500
+  - itemLevel: 15
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 408
+    - Attribute: 2
+      Amount: 72
+    Ingredients:
+      Currency: 0
+      Amount: 16500
+  - itemLevel: 16
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 425
+    - Attribute: 2
+      Amount: 75
+    Ingredients:
+      Currency: 0
+      Amount: 17500
+  - itemLevel: 17
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 442
+    - Attribute: 2
+      Amount: 78
+    Ingredients:
+      Currency: 0
+      Amount: 18500
+  - itemLevel: 18
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 459
+    - Attribute: 2
+      Amount: 81
+    Ingredients:
+      Currency: 0
+      Amount: 19500
+  - itemLevel: 19
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 476
+    - Attribute: 2
+      Amount: 84
+    Ingredients:
+      Currency: 0
+      Amount: 20500
+  - itemLevel: 20
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 493
+    - Attribute: 2
+      Amount: 87
+    Ingredients:
+      Currency: 0
+      Amount: 21500
+  - itemLevel: 21
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 510
+    - Attribute: 2
+      Amount: 90
+    Ingredients:
+      Currency: 0
+      Amount: 22500
+  - itemLevel: 22
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 527
+    - Attribute: 2
+      Amount: 93
+    Ingredients:
+      Currency: 0
+      Amount: 23500
+  - itemLevel: 23
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 544
+    - Attribute: 2
+      Amount: 96
+    Ingredients:
+      Currency: 0
+      Amount: 24500
+  - itemLevel: 24
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 561
+    - Attribute: 2
+      Amount: 99
+    Ingredients:
+      Currency: 0
+      Amount: 25500
+  - itemLevel: 25
+    ShipItemAttributes:
+    - Attribute: 1
+      Amount: 578
+    - Attribute: 2
+      Amount: 102
+    Ingredients:
+      Currency: 0
+      Amount: 26500
+  shipItemTierDatas:
+  - itemTierSprite: {fileID: 21300000, guid: 0f122526d68f7e141b1c88b8a557ec65, type: 3}
+    itemTier: 1
+    itemtierBoostAmount: 7
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 1
+  - itemTierSprite: {fileID: 21300000, guid: 5341a2be666c3d045a57e26ed18d18db, type: 3}
+    itemTier: 2
+    itemtierBoostAmount: 14
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 1
+  - itemTierSprite: {fileID: 21300000, guid: 59678c514bcfafc46a6d8eba0f7aea56, type: 3}
+    itemTier: 3
+    itemtierBoostAmount: 21
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 2
+  - itemTierSprite: {fileID: 21300000, guid: 53c315f4c0ce1d14185d0b65a27a19c0, type: 3}
+    itemTier: 4
+    itemtierBoostAmount: 28
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 2
+  - itemTierSprite: {fileID: 21300000, guid: ea34a5a2aaa2c3d41bd72fd68bae33fc, type: 3}
+    itemTier: 5
+    itemtierBoostAmount: 35
+    ingredients:
+      shipItemData: {fileID: 11400000}
+      Amount: 3

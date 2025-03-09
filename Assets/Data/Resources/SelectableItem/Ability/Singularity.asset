@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ce5a5cc83756147bca219cdbd3b0eb, type: 3}
+  m_Name: Singularity
+  m_EditorClassIdentifier: 
+  itemName: Singularity
+  itemSprite: {fileID: -831554843, guid: fc06f9451b1319345bbe78a975e6aac1, type: 3}
+  objectType: 5
+  selectableType: 0
+  bulletType: 8
+  levels:
+  - level: 1
+    abilityAttributes:
+      ATK: 0
+      Cooldown: 10
+      SizeArea: 0
+      ShotsPerAttack: 2
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - Spawns 2 Singularity
+  - level: 2
+    abilityAttributes:
+      ATK: 25
+      Cooldown: 9
+      SizeArea: 0
+      ShotsPerAttack: 3
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - +25% ATK
+    - Spawns 3 Singularity
+  - level: 3
+    abilityAttributes:
+      ATK: 50
+      Cooldown: 8
+      SizeArea: 0
+      ShotsPerAttack: 4
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - +25% ATK
+    - Spawns 4 Singularity
+  - level: 4
+    abilityAttributes:
+      ATK: 75
+      Cooldown: 7
+      SizeArea: 0
+      ShotsPerAttack: 5
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - +25% ATK
+    - Spawns 5 Singularity
+  UltimateLevel:
+    level: 5
+    abilityAttributes:
+      ATK: 100
+      Cooldown: 7
+      SizeArea: 0
+      ShotsPerAttack: 6
+      CritRate: 0
+      CritDamage: 0
+    Description:
+    - +25% ATK
+    - Spawns 6 Singularity
+  abilityBuffData: {fileID: 11400000, guid: 3cf265106bf6f3c4888ca8bc2e6d44cb, type: 2}

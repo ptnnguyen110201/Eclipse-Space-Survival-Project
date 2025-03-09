@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aea589928e57feb4e8e30ce57e475eda, type: 3}
+  m_Name: Mapdata 1
+  m_EditorClassIdentifier: 
+  MapID: 1
+  MapName: Map 1
+  MapBG: {fileID: 21300000, guid: ddcac1fac1f5c8943a30c2ef6b724062, type: 3}
+  energyData: {fileID: 11400000, guid: 2febdcdd6737bc44e9b3a5b6d4b6f67f, type: 2}
+  MapWaves:
+  - spawnTimer: 0.01
+    spawnDelay: 5
+    spawnTime: 55
+    maxCount: 15
+    isBossWave: 0
+    EnemyWaves:
+    - enemyID: 1
+      enemyType: 0
+      spawnRatio: 1
+    MiniBossWaves: []
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 0
+  - spawnTimer: 0.01
+    spawnDelay: 5
+    spawnTime: 55
+    maxCount: 30
+    isBossWave: 0
+    EnemyWaves:
+    - enemyID: 1
+      enemyType: 1
+      spawnRatio: 1
+    MiniBossWaves: []
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 0
+  - spawnTimer: 0.01
+    spawnDelay: 5
+    spawnTime: 55
+    maxCount: 50
+    isBossWave: 0
+    EnemyWaves:
+    - enemyID: 1
+      enemyType: 2
+      spawnRatio: 1
+    MiniBossWaves: []
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 0
+  - spawnTimer: 0.01
+    spawnDelay: 5
+    spawnTime: 55
+    maxCount: 100
+    isBossWave: 0
+    EnemyWaves:
+    - enemyID: 1
+      enemyType: 3
+      spawnRatio: 1
+    MiniBossWaves: []
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 0
+  - spawnTimer: 0.01
+    spawnDelay: 5
+    spawnTime: 55
+    maxCount: 200
+    isBossWave: 0
+    EnemyWaves:
+    - enemyID: 1
+      enemyType: 0
+      spawnRatio: 0.2
+    - enemyID: 1
+      enemyType: 1
+      spawnRatio: 0.2
+    - enemyID: 1
+      enemyType: 2
+      spawnRatio: 0.3
+    - enemyID: 1
+      enemyType: 3
+      spawnRatio: 0.3
+    MiniBossWaves:
+    - enemyID: 1
+      enemyType: 0
+      spawnWithNormalEnemies: 1
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 1
+  - spawnTimer: 0.01
+    spawnDelay: 0
+    spawnTime: 0
+    maxCount: 1
+    isBossWave: 1
+    EnemyWaves: []
+    MiniBossWaves: []
+    BossWave:
+      enemyID: 1001
+      enemyType: 0
+    warning: 1
+  mapReward:
+    diamondsData: {fileID: 11400000, guid: 43ea65fa6f19c1a48b3aaa9fae53ec85, type: 2}
+    Amount: 100
+  mapEnemySprite:
+  - {fileID: 21300000, guid: 72b20aacd4dad884a966a1b8495fb2c1, type: 3}
+  - {fileID: 21300000, guid: fbcbe27a80daaad459607318d03748d4, type: 3}
+  - {fileID: 21300000, guid: 2deabc42e7e38e444be59b5914687047, type: 3}
+  - {fileID: 21300000, guid: 3f8a26155f0f1fd45885594ea7e934a4, type: 3}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3e8191752422f4b9a916060e6b5d27, type: 3}
+  m_Name: MiniBoss5
+  m_EditorClassIdentifier: 
+  objName: MiniBoss5
+  objType: 3
+  objectAttributes:
+  - objectSprite: {fileID: 21300000, guid: 68a4de86d272beb4f845b50cefdbd6e3, type: 3}
+    objectHp: 6000
+    objectATK: 30
+    objectSpeed: 1
+    dropList:
+    - itemData: {fileID: 11400000, guid: 455062cf69e6dd7448e7d9c6cf0aab80, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: f95a1d946cad5c94bb114aa57dfbcc92, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: ca8d5c1a121d45f4e9ae5078c421dcec, type: 3}
+    objectHp: 9000
+    objectATK: 33.00000071525574
+    objectSpeed: 1
+    dropList:
+    - itemData: {fileID: 11400000, guid: 455062cf69e6dd7448e7d9c6cf0aab80, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: f95a1d946cad5c94bb114aa57dfbcc92, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: ddf65de4ccdf93c42aa515f678865e41, type: 3}
+    objectHp: 13500
+    objectATK: 36.30000114440918
+    objectSpeed: 1
+    dropList:
+    - itemData: {fileID: 11400000, guid: 455062cf69e6dd7448e7d9c6cf0aab80, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: f95a1d946cad5c94bb114aa57dfbcc92, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  - objectSprite: {fileID: 21300000, guid: 251d74a37ddfdf14b932761e0bb80857, type: 3}
+    objectHp: 20250
+    objectATK: 39.93000268936157
+    objectSpeed: 1
+    dropList:
+    - itemData: {fileID: 11400000, guid: 455062cf69e6dd7448e7d9c6cf0aab80, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: f95a1d946cad5c94bb114aa57dfbcc92, type: 2}
+      dropRate: 100
+    - itemData: {fileID: 11400000, guid: 57d8afb829fd81245b817fc96004db28, type: 2}
+      dropRate: 100
+  enemyID: 101
